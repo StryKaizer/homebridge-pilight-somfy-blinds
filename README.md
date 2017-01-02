@@ -1,0 +1,1 @@
+# homebridge-pilight-somfy-blinds
