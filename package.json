@@ -1,0 +1,29 @@
+{
+  "name": "homebridge-pilight-somfy-blinds",
+  "version": "1.0.0",
+  "description": "A homebridge plugin to control somfy blinds with pilight",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StryKaizer/homebridge-pilight-somfy-blinds"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "homekit",
+    "somfy",
+    "pilight",
+    "homebridge-blinds"
+  ],
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">4.0.0"
+  },
+  "author": "Jimmy Henderickx",
+  "license": "ISC",
+  "homepage": "https://github.com/StryKaizer/homebridge-pilight-somfy-blinds/blob/master/README.md"
+}
