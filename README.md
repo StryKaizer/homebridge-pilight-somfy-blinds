@@ -1,3 +1,19 @@
+# status
+
+This module is not yet ready for usage and not available on npmjs.  Documentation below should be ignored until this message is removed.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # homebridge-pilight-somfy-blinds
 
 `homebridge-pilight-somfy-blinds` is a plugin for Homebridge.
